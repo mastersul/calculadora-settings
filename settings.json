@@ -228,7 +228,7 @@
     ],
     "mercadoLivrePetFood": [
       {
-        "priceRange": { "min": 79, "max": 200.01 },
+        "priceRange": { "min": 79, "max": "Infinity" },
         "tiers": [
           { "maxWeightKgExc": 0.3, "fee": 10 }, { "minWeightKgInc": 0.3, "maxWeightKgExc": 0.5, "fee": 10.7 },
           { "minWeightKgInc": 0.5, "maxWeightKgExc": 1, "fee": 11.2 }, { "minWeightKgInc": 1, "maxWeightKgExc": 2, "fee": 11.7 },
