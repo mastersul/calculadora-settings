@@ -2,42 +2,49 @@
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1HV79teVTAJdu_yspXx2ZHzSC3ygZEAIrkTwUXTcFf8E/edit?gid=1534365417#gid=1534365417",
   "sheetName": "Produtos",
   "appsScriptUrl": "https://script.google.com/macros/s/AKfycbwHBZKj63BQI-pqZXrM7e2ej9qUPUz82l_iwmHAwuWVXNQ2J3uX1NjAR0XkdGcV6_i6/exec?rota=crud",
+  
   "mercadoLivre": {
     "commissionPercent": 14,
     "commissionPremiumPercent": 19,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 0,
-    "fixedFeeThreshold": 0
+    "fixedFeeThreshold": 0,
+    "defaultMarginPercent": 10
   },
   "shopee": {
     "commissionPercent": 20,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 0,
-    "fixedFeeThreshold": 0
+    "fixedFeeThreshold": 0,
+    "defaultMarginPercent": 20
   },
   "magalu": {
     "commissionPercent": 14.8,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 5,
-    "fixedFeeThreshold": 10
+    "fixedFeeThreshold": 10,
+    "defaultMarginPercent": 13
   },
   "shein": {
     "commissionPercent": 18,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 0,
-    "fixedFeeThreshold": 0
+    "fixedFeeThreshold": 0,
+    "defaultMarginPercent": 26
   },
   "amazonDBA": {
     "commissionPercent": 12,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 5.5,
-    "fixedFeeThreshold": 79
+    "fixedFeeThreshold": 79,
+    "defaultMarginPercent": 12
   },
   "amazonFBA": {
     "commissionPercent": 12,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 0,
-    "fixedFeeThreshold": 0
+    "fixedFeeThreshold": 0,
+    "defaultMarginPercent": 12
   },
   "livre": {
     "commissionPercent": 0,
