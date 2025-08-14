@@ -310,22 +310,36 @@
       {
         "priceRange": { "min": 79, "max": "Infinity" },
         "tiers": [
-          { "maxWeightKgExc": 0.5, "fee": 17.95 }, { "minWeightKgInc": 0.5, "maxWeightKgExc": 1, "fee": 20.45 },
-          { "minWeightKgInc": 1, "maxWeightKgExc": 2, "fee": 21.45 }, { "minWeightKgInc": 2, "maxWeightKgExc": 5, "fee": 25.45 },
-          { "minWeightKgInc": 5, "maxWeightKgExc": 9, "fee": 38.95 }, { "minWeightKgInc": 9, "maxWeightKgExc": 13, "fee": 49.45 },
-          { "minWeightKgInc": 13, "maxWeightKgExc": 17, "fee": 55.95 }, { "minWeightKgInc": 17, "maxWeightKgExc": 23, "fee": 67.45 },
-          { "minWeightKgInc": 23, "maxWeightKgExc": 30, "fee": 74.45 }, { "minWeightKgInc": 30, "maxWeightKgExc": 40, "fee": 89.95 },
-          { "minWeightKgInc": 40, "maxWeightKgExc": 50, "fee": 94.95 }, { "minWeightKgInc": 50, "maxWeightKgExc": 60, "fee": 99.95 },
-          { "minWeightKgInc": 60, "maxWeightKgExc": 70, "fee": 104.95 }, { "minWeightKgInc": 70, "maxWeightKgExc": 80, "fee": 109.95 },
-          { "minWeightKgInc": 80, "maxWeightKgExc": 90, "fee": 114.95 }, { "minWeightKgInc": 90, "maxWeightKgExc": 100, "fee": 119.95 },
-          { "minWeightKgInc": 100, "maxWeightKgExc": 110, "fee": 124.95 }, { "minWeightKgInc": 110, "maxWeightKgExc": 120, "fee": 129.95 },
-          { "minWeightKgInc": 120, "maxWeightKgExc": 130, "fee": 134.95 }, { "minWeightKgInc": 130, "maxWeightKgExc": 140, "fee": 139.95 },
-          { "minWeightKgInc": 140, "maxWeightKgExc": 150, "fee": 144.95 }, { "minWeightKgInc": 150, "maxWeightKgExc": 160, "fee": 149.95 },
-          { "minWeightKgInc": 160, "maxWeightKgExc": 170, "fee": 154.95 }, { "minWeightKgInc": 170, "maxWeightKgExc": 180, "fee": 159.95 },
-          { "minWeightKgInc": 180, "maxWeightKgExc": 190, "fee": 164.95 }, { "minWeightKgInc": 190, "maxWeightKgExc": 200, "fee": 169.95 },
-          { "minWeightKgInc": 200, "maxWeightKgExc": 1000, "fee": 174.95 }
+          { "maxWeightKgExc": 0.5, "fee": 35.90 },
+          { "minWeightKgInc": 0.5, "maxWeightKgExc": 1, "fee": 40.80 },
+          { "minWeightKgInc": 1, "maxWeightKgExc": 2, "fee": 42.90 },
+          { "minWeightKgInc": 2, "maxWeightKgExc": 5, "fee": 50.90 },
+          { "minWeightKgInc": 5, "maxWeightKgExc": 9, "fee": 77.90 },
+          { "minWeightKgInc": 9, "maxWeightKgExc": 13, "fee": 98.00 },
+          { "minWeightKgInc": 13, "maxWeightKgExc": 17, "fee": 111.90 },
+          { "minWeightKgInc": 17, "maxWeightKgExc": 23, "fee": 134.90 },
+          { "minWeightKgInc": 23, "maxWeightKgExc": 30, "fee": 148.90 },
+          { "minWeightKgInc": 30, "maxWeightKgExc": 40, "fee": 179.90 },
+          { "minWeightKgInc": 40, "maxWeightKgExc": 50, "fee": 189.90 },
+          { "minWeightKgInc": 50, "maxWeightKgExc": 60, "fee": 199.90 },
+          { "minWeightKgInc": 60, "maxWeightKgExc": 70, "fee": 209.90 },
+          { "minWeightKgInc": 70, "maxWeightKgExc": 80, "fee": 219.90 },
+          { "minWeightKgInc": 80, "maxWeightKgExc": 90, "fee": 229.90 },
+          { "minWeightKgInc": 90, "maxWeightKgExc": 100, "fee": 239.90 },
+          { "minWeightKgInc": 100, "maxWeightKgExc": 110, "fee": 249.90 },
+          { "minWeightKgInc": 110, "maxWeightKgExc": 120, "fee": 259.90 },
+          { "minWeightKgInc": 120, "maxWeightKgExc": 130, "fee": 269.90 },
+          { "minWeightKgInc": 130, "maxWeightKgExc": 140, "fee": 279.90 },
+          { "minWeightKgInc": 140, "maxWeightKgExc": 150, "fee": 289.90 },
+          { "minWeightKgInc": 150, "maxWeightKgExc": 160, "fee": 299.90 },
+          { "minWeightKgInc": 160, "maxWeightKgExc": 170, "fee": 309.90 },
+          { "minWeightKgInc": 170, "maxWeightKgExc": 180, "fee": 319.90 },
+          { "minWeightKgInc": 180, "maxWeightKgExc": 190, "fee": 329.90 },
+          { "minWeightKgInc": 190, "maxWeightKgExc": 200, "fee": 339.90 },
+          { "minWeightKgInc": 200, "maxWeightKgExc": 1000, "fee": 349.90 }
         ]
       }
+    ]
     ]
   }
 }
