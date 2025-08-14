@@ -19,11 +19,32 @@
     "defaultMarginPercent": 20
   },
   "magalu": {
-    "commissionPercent": 14.8,
-    "effectiveTaxPercent": 6.5,
+    "commissionPercent": 19,
+    "effectiveTaxPercent": 10.5,
     "fixedFee": 5,
-    "fixedFeeThreshold": 10,
-    "defaultMarginPercent": 13
+    "fixedFeeThreshold": 79,
+    "defaultMarginPercent": 12,
+    "magaluShippingDiscountTiers": [
+        {
+            "label": "< 92%",
+            "minReputationPercentInc": 0,
+            "maxReputationPercentExc": 92,
+            "discountPercent": 0
+        },
+        {
+            "label": ">= 92% e < 97%",
+            "minReputationPercentInc": 92,
+            "maxReputationPercentExc": 97,
+            "discountPercent": 25
+        },
+        {
+            "label": ">= 97%",
+            "minReputationPercentInc": 97,
+            "maxReputationPercentExc": 101,
+            "discountPercent": 50
+        }
+    ]
+}
   },
   "shein": {
     "commissionPercent": 18,
