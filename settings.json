@@ -2,7 +2,7 @@
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1HV79teVTAJdu_yspXx2ZHzSC3ygZEAIrkTwUXTcFf8E/edit?gid=1534365417#gid=1534365417",
   "sheetName": "Produtos",
   "appsScriptUrl": "https://script.google.com/macros/s/AKfycbwHBZKj63BQI-pqZXrM7e2ej9qUPUz82l_iwmHAwuWVXNQ2J3uX1NjAR0XkdGcV6_i6/exec?rota=crud",
-  
+
   "mercadoLivre": {
     "commissionPercent": 14,
     "commissionPremiumPercent": 19,
@@ -25,26 +25,10 @@
     "fixedFeeThreshold": 79,
     "defaultMarginPercent": 12,
     "magaluShippingDiscountTiers": [
-        {
-            "label": "< 92%",
-            "minReputationPercentInc": 0,
-            "maxReputationPercentExc": 92,
-            "discountPercent": 0
-        },
-        {
-            "label": ">= 92% e < 97%",
-            "minReputationPercentInc": 92,
-            "maxReputationPercentExc": 97,
-            "discountPercent": 25
-        },
-        {
-            "label": ">= 97%",
-            "minReputationPercentInc": 97,
-            "maxReputationPercentExc": 101,
-            "discountPercent": 50
-        }
+      { "label": "< 92%", "minReputationPercentInc": 0, "maxReputationPercentExc": 92, "discountPercent": 0 },
+      { "label": ">= 92% e < 97%", "minReputationPercentInc": 92, "maxReputationPercentExc": 97, "discountPercent": 25 },
+      { "label": ">= 97%", "minReputationPercentInc": 97, "maxReputationPercentExc": 101, "discountPercent": 50 }
     ]
-  }
   },
   "shein": {
     "commissionPercent": 18,
