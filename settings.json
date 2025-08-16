@@ -143,7 +143,7 @@
     ],
     "mercadoLivreEspecial": [
       {
-        "priceRange": { "min": 0, "max": 79 },
+        "priceRange": { "min": 0, "max": 78.99 },
         "tiers": [
           { "maxWeightKgExc": 0.3, "fee": 39.9 }, { "minWeightKgInc": 0.3, "maxWeightKgExc": 0.5, "fee": 42.9 },
           { "minWeightKgInc": 0.5, "maxWeightKgExc": 1, "fee": 44.9 }, { "minWeightKgInc": 1, "maxWeightKgExc": 2, "fee": 46.9 },
