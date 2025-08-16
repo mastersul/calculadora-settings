@@ -1,7 +1,7 @@
 {
   "sheetUrl": "https://docs.google.com/spreadsheets/d/1HV79teVTAJdu_yspXx2ZHzSC3ygZEAIrkTwUXTcFf8E/edit?gid=1534365417#gid=1534365417",
   "sheetName": "Produtos",
-  "appsScriptUrl": "https://script.google.com/macros/s/AKfycbwHBZKj63BQI-pqZXrM7e2ej9qUPUz82l_iwmHAwuWVXNQ2J3uX1NjAR0XkdGcV6_i6/exec?rota=crud",
+  "appsScriptUrl": "https://script.google.com/macros/s/AKfycbwDIRvmqfqfqOJSkQFWPtWspEo5hTFaeB_FzB45HxF3lDZK09_XVJmy_q0yu4_GfitQ/exec?rota=crud",
   "productListView": "inline",
   "mercadoLivre": {
     "commissionPercent": 14,
