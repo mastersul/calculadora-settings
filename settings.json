@@ -22,7 +22,7 @@
     "commissionPercent": 19,
     "effectiveTaxPercent": 10.5,
     "fixedFee": 5,
-    "fixedFeeThreshold": 79,
+    "fixedFeeThreshold": 10,
     "defaultMarginPercent": 12,
     "magaluShippingDiscountTiers": [
       { "label": "< 92%", "minReputationPercentInc": 0, "maxReputationPercentExc": 92, "discountPercent": 0 },
