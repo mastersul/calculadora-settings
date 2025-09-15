@@ -33,7 +33,7 @@
   "shein": {
     "commissionPercent": 18,
     "effectiveTaxPercent": 6.5,
-    "fixedFee": 0,
+    "fixedFee": 5,
     "fixedFeeThreshold": 0,
     "defaultMarginPercent": 26
   },
