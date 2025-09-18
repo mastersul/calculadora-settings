@@ -40,8 +40,8 @@
   "amazonDBA": {
     "commissionPercent": 12,
     "effectiveTaxPercent": 6.5,
-    "fixedFee": 5.5,
-    "fixedFeeThreshold": 79,
+    "fixedFee": 5.65,
+    "fixedFeeThreshold": 79
     "defaultMarginPercent": 12
   },
   "amazonFBA": {
