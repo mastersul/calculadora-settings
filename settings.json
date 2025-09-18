@@ -257,8 +257,8 @@
         ]
       }
     ],
-    "amazonDBA": [
-          {
+  "amazonDBA": [
+    {
       "priceRange": { "min": 0, "max": 30 },
       "tiers": [
         { "maxWeightKgExc": 1000, "fee": 5.65 }
