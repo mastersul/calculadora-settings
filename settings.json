@@ -443,7 +443,7 @@
           {"minWeightKgInc": 29.0,"maxWeightKgExc": 30.0,"fee": 141.45}
         ]
       }
-    ]
+    ],
       "amazonFBA": [
          {
       "priceRange": { "min": 79, "max": 100 },
@@ -460,7 +460,6 @@
         { "minWeightKgInc": 7, "maxWeightKgExc": 8, "fee": 27.00 },
         { "minWeightKgInc": 8, "maxWeightKgExc": 9, "fee": 28.00 },
         { "minWeightKgInc": 9, "maxWeightKgExc": 10, "fee": 39.50 },
-  
         { "minWeightKgInc": 10, "maxWeightKgExc": 11, "fee": 42.55 },
         { "minWeightKgInc": 11, "maxWeightKgExc": 12, "fee": 45.60 },
         { "minWeightKgInc": 12, "maxWeightKgExc": 13, "fee": 48.65 },
@@ -493,7 +492,6 @@
         { "minWeightKgInc": 7, "maxWeightKgExc": 8, "fee": 32.00 },
         { "minWeightKgInc": 8, "maxWeightKgExc": 9, "fee": 33.00 },
         { "minWeightKgInc": 9, "maxWeightKgExc": 10, "fee": 46.00 },
-  
         { "minWeightKgInc": 10, "maxWeightKgExc": 11, "fee": 49.05 },
         { "minWeightKgInc": 11, "maxWeightKgExc": 12, "fee": 52.10 },
         { "minWeightKgInc": 12, "maxWeightKgExc": 13, "fee": 55.15 },
@@ -526,7 +524,6 @@
         { "minWeightKgInc": 7, "maxWeightKgExc": 8, "fee": 36.00 },
         { "minWeightKgInc": 8, "maxWeightKgExc": 9, "fee": 37.00 },
         { "minWeightKgInc": 9, "maxWeightKgExc": 10, "fee": 52.75 },
-  
         { "minWeightKgInc": 10, "maxWeightKgExc": 11, "fee": 55.80 },
         { "minWeightKgInc": 11, "maxWeightKgExc": 12, "fee": 58.85 },
         { "minWeightKgInc": 12, "maxWeightKgExc": 13, "fee": 61.90 },
@@ -559,7 +556,6 @@
         { "minWeightKgInc": 7, "maxWeightKgExc": 8, "fee": 40.00 },
         { "minWeightKgInc": 8, "maxWeightKgExc": 9, "fee": 41.00 },
         { "minWeightKgInc": 9, "maxWeightKgExc": 10, "fee": 59.00 },
-  
         { "minWeightKgInc": 10, "maxWeightKgExc": 11, "fee": 62.50 },
         { "minWeightKgInc": 11, "maxWeightKgExc": 12, "fee": 66.00 },
         { "minWeightKgInc": 12, "maxWeightKgExc": 13, "fee": 69.50 },
@@ -592,7 +588,6 @@
         { "minWeightKgInc": 7, "maxWeightKgExc": 8, "fee": 41.90 },
         { "minWeightKgInc": 8, "maxWeightKgExc": 9, "fee": 41.90 },
         { "minWeightKgInc": 9, "maxWeightKgExc": 10, "fee": 65.90 },
-  
         { "minWeightKgInc": 10, "maxWeightKgExc": 11, "fee": 69.90 },
         { "minWeightKgInc": 11, "maxWeightKgExc": 12, "fee": 73.90 },
         { "minWeightKgInc": 12, "maxWeightKgExc": 13, "fee": 77.90 },
